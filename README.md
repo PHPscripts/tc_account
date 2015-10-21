@@ -19,7 +19,7 @@ Be sure to enable SOAP in your Trinity Core world configuration and
 edit the config.php to fit your configuration. The SOAP account has
 to be GMlevel 4 (Console) in order to use the account create command.
 
-If you need any support please ask for it in the appropriate thread.
+If you need any support please ask for it in the repository bug tracker not the TrinityCore forum!
 Good luck, and have fun.
 
 With kind regards,
