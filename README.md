@@ -20,6 +20,7 @@ edit the config.php to fit your configuration. The SOAP account has
 to be GMlevel 4 (Console) in order to use the account create command.
 
 If you need any support please ask for it in the repository bug tracker not the TrinityCore forum!
+
 Good luck, and have fun.
 
 With kind regards,
@@ -30,3 +31,4 @@ Modified for 6.x.x use. May error out if used on just the 3.3.5 world server.
 It needs to create the account on a 6.x.x world server because of the inclusion on bnet. This can be acheived by setting the soap port to that 6.x.x realm.
 Cleaned up some shitty code.
 Looks like the authors have been inactice for quite some time.
+Don't be stupid and try and make a public server with it.
